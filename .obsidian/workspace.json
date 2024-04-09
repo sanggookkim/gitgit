@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a9dee69bd281bcaf",
+        "id": "ed008713857a3994",
         "type": "tabs",
         "children": [
           {
-            "id": "78473acb396f933a",
+            "id": "4a2e7ce40b05fcd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "78473acb396f933a",
+  "active": "4a2e7ce40b05fcd0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "무제 파일.md",
     "mac->window.md",
     "test1.md",
@@ -149,7 +158,6 @@
     "test123.md",
     "마지막 테스트.md",
     "ㅁㄴㅇㅁㄴㅇ/ㅁㅁㅁㅁㅁㅁ1.md",
-    "conflict-files-obsidian-git.md",
     "ㅁㄴㅇㅁㄴㅇ/ㅎㅅㅎㅅ.md",
     "test folder"
   ]
