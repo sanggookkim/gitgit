@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asdsd.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "808b51bacdca5b53",
+            "id": "78473acb396f933a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "안녕하세요.md",
+                "file": "마지막 테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "안녕하세요.md",
+                "file": "마지막 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "안녕하세요.md",
+                "file": "마지막 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "안녕하세요.md"
+                "file": "마지막 테스트.md"
               }
             }
           }
@@ -159,11 +159,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "808b51bacdca5b53",
+  "active": "78473acb396f933a",
   "lastOpenFiles": [
-    "테스트입니다.md",
-    "asdsd.md",
     "conflict-files-obsidian-git.md",
+    "마지막 테스트.md",
+    "asdsd.md",
+    "테스트입니다.md",
     "안녕하세요.md",
     "test123.md",
     "ㅁㄴㅇㅁㄴㅇ/ㅎㅅㅎㅅ.md",
