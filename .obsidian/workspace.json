@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dbeb1bf75258866b",
+        "id": "a5b0117aa3da5979",
         "type": "tabs",
         "children": [
           {
-            "id": "3cda3d8c1528680e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "테스트입니다.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3aef9ffbd4e998b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test123.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c918df09f06dfbe6",
+            "id": "0d6a9c1211e66e12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,12 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c918df09f06dfbe6",
+  "active": "0d6a9c1211e66e12",
   "lastOpenFiles": [
-    "test123.md",
-    "conflict-files-obsidian-git.md",
     "테스트입니다.md",
+    "안녕하세요.md",
+    "conflict-files-obsidian-git.md",
     "asdsd.md",
+    "test123.md",
     "ㅁㄴㅇㅁㄴㅇ/ㅎㅅㅎㅅ.md",
     "ㅁㄴㅇㅁㄴㅇ/ㅁㅁㅁㅁㅁㅁ1.md",
     "ㅁㄴㅇㅁㄴㅇ"
