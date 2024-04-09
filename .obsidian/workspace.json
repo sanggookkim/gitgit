@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "69b0e88ee3856f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3cda3d8c1528680e",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asdsd.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asdsd.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asdsd.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -183,11 +195,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e497653d82de76a4",
+  "active": "69b0e88ee3856f82",
   "lastOpenFiles": [
-    "ㅁㄴㅇㅁㄴㅇ/ㅁㅁㅁㅁㅁㅁ1.md",
     "테스트입니다.md",
     "asdsd.md",
+    "conflict-files-obsidian-git.md",
+    "ㅁㄴㅇㅁㄴㅇ/ㅁㅁㅁㅁㅁㅁ1.md",
     "ㅁㄴㅇㅁㄴㅇ/ㅎㅅㅎㅅ.md",
     "ㅁㄴㅇㅁㄴㅇ"
   ]
